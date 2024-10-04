@@ -1,0 +1,15 @@
+* {
+  color: rgb(23, 23, 243);
+}
+
+.greetings {
+  color: rgb(100, 24, 95);
+}
+
+#whatsUp {
+  font-weight: 300px;
+}
+
+h3 {
+  font-style: italic;
+}
